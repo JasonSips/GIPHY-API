@@ -8,4 +8,4 @@ In this assignment, I used the GIPHY API to make a dynamic web page that populat
 
 https://jasonsips.github.io/GIPHY-API/
 
-![Screenshot](https://github.com/JasonSips/GIPHY-API/blob/master/assets/images/Giphy.png
+![Screenshot](https://github.com/JasonSips/GIPHY-API/blob/master/assets/images/Giphy.png)
